@@ -1,7 +1,7 @@
 
 # Repositório CRUD Java PostgreSQL no NetBeans
 
-Este repositório contém os arquivos utilizados no vídeo do YouTube que ensina como implementar operações CRUD (Criar, Ler, Atualizar e Excluir) em Java com PostgreSQL 16 usando o IDE NetBeans.<br>
+Este repositório contém os arquivos utilizados no vídeo do YouTube que ensina como implementar operações CRUD (Criar, Ler, Atualizar e Excluir) em Java com PostgreSQL 16 usando o IDE NetBeans.<br> 
 
 # Pré-requisitos<br>
 * Java 17 ou superior<br>
